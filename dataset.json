@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of West Virginia. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in West Virginia, US",
+  "export_job_id": "106217f4-36af-4bd3-90bd-ecb21d4a1baa",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 167173,
+  "location_name": "West Virginia",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-west-virginia-us-sample-167173",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/167173/beamstation_167173_restaurants-us-wv_SAMPLE_DIST.csv",
+  "sample_pct": 10.05,
+  "sample_records": 332,
+  "sample_sha256": "811b477a989a9f80729ffe6e73bf0b4b0241816855ee44b8eef48e2439fbadae",
+  "sample_size_bytes": 966394,
+  "total_records": 3305,
+  "updated_at": "2026-04-07T11:46:44.468431+00:00"
+}
