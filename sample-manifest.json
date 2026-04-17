@@ -1,12 +1,12 @@
 {
-  "export_job_id": "106217f4-36af-4bd3-90bd-ecb21d4a1baa",
+  "export_job_id": "e70597a7-6565-4794-803a-dcec6175deb0",
   "id_short": 167173,
-  "published_at": "2026-04-16T19:52:55Z",
+  "published_at": "2026-04-17T19:05:27Z",
   "repo_name": "all-restaurants-in-west-virginia-us-sample-167173",
   "sample_asset_name": "beamstation_167173_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/167173/beamstation_167173_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_records": 332,
   "sample_sha256": "811b477a989a9f80729ffe6e73bf0b4b0241816855ee44b8eef48e2439fbadae",
   "sample_size_bytes": 966394,
-  "total_records": 3305
+  "total_records": 3321
 }
