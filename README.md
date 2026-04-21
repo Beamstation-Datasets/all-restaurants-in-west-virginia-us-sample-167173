@@ -1,6 +1,6 @@
 # All Restaurants in West Virginia, US
 
-> Free BeamStation sample export with 332 rows and masked direct-contact fields.
+> Free BeamStation sample export with 373 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `167173` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 3,321 records |
-| Free sample size | 332 records (10.0%) |
-| Last export | 2026-04-14T11:45:14.973826+00:00 |
+| Full dataset size | 3,734 records |
+| Free sample size | 373 records (9.99%) |
+| Last export | 2026-04-21T12:19:52.568022+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-west-virginia-us-sample-167173/releases/download/sample-latest/beamstation_167173_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
